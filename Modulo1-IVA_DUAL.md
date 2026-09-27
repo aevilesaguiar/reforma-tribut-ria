@@ -187,13 +187,102 @@ Conceito-Chave: Regras Gerais de Funcionamento, Legislação Única e Autonomia 
 
 1. Os 8 Blocos Operacionais (Detalhamento):
 
-- Campo de Incidência Amplo
+1.1. Campo de Incidência Amplo
 - Incidirão sobre operações com bens materiais ou imateriais, inclusive direitos, ou com serviços.
   - Significado: Abrange o consumo de forma ampla (mercadorias, bens digitais, licenças, direitos e prestação de serviços).
-- Tributação da ImportaçãoIncidirão também sobre a importação.
-  - Significado: Garante a neutralidade competitiva; bens e serviços vindos do exterior pagam o mesmo imposto que a produção nacional.
-- Desoneração das Exportações
-- Não incidirão sobre as exportações.   Significado: Mantém a competitividade das empresas brasileiras no mercado internacional (o tributo não é "exportado").   4. Legislação Única NacionalTerão legislação única e uniforme em todo o território nacional.   Significado: Elimina a guerra fiscal e a existência de milhares de leis municipais e estaduais diferentes.   5. Autonomia dos Entes (Alíquota Própria)Cada ente federativo fixará sua alíquota própria por lei específica.   Significado: Preserva a autonomia financeira de cada Estado, Distrito Federal e Município para definir a sua margem tributária.   6. Alíquota Uniforme no EnteA alíquota fixada pelo ente federativo será a mesma para todas as operações.   Significado: O ente fixa uma taxa padrão que se aplica a quase todos os produtos e serviços, evitando benefícios fiscais pontuais ou casuísticos.   7. Princípio do DestinoIBS será cobrado pelo somatório das alíquotas do Estado e do Município de destino da operação.   Significado: A arrecadação pertence ao local onde o bem ou serviço é efetivamente consumido, e não onde foi produzido.   8. Não Cumulatividade PlenaSerão não cumulativos, compensando-se o imposto devido pelo contribuinte com o montante cobrado sobre todas as operações nas quais seja adquirente.   Significado: Permite o abatimento integral de todos os tributos pagos na aquisição de insumos, bens e serviços ao longo da cadeia produtiva.   
+1.2. Tributação da Importação
+  - Incidirão também sobre a importação.
+    - Significado: Garante a neutralidade competitiva; bens e serviços vindos do exterior pagam o mesmo imposto que a produção nacional.
+1.3. Desoneração das Exportações
+- Não incidirão sobre as exportações.
+ - Significado: Mantém a competitividade das empresas brasileiras no mercado internacional (o tributo não é "exportado").
+1.4. Legislação Única Nacional
+- Terão legislação única e uniforme em todo o território nacional.
+  - Significado: Elimina a guerra fiscal e a existência de milhares de leis municipais e estaduais diferentes.
+1.5. Autonomia dos Entes (Alíquota Própria)
+- Cada ente federativo fixará sua alíquota própria por lei específica.
+  - Significado: Preserva a autonomia financeira de cada Estado, Distrito Federal e Município para definir a sua margem tributária.
+1.6. Alíquota Uniforme no Ente
+- A alíquota fixada pelo ente federativo será a mesma para todas as operações.
+  - Significado: O ente fixa uma taxa padrão que se aplica a quase todos os produtos e serviços, evitando benefícios fiscais pontuais ou casuísticos.
+1.7. Princípio do Destino
+- IBS será cobrado pelo somatório das alíquotas do Estado e do Município de destino da operação.
+  - Significado: A arrecadação pertence ao local onde o bem ou serviço é efetivamente consumido, e não onde foi produzido.
+1.8. Não Cumulatividade Plena
+- Serão não cumulativos, compensando-se o imposto devido pelo contribuinte com o montante cobrado sobre todas as operações nas quais seja adquirente.
+  - Significado: Permite o abatimento integral de todos os tributos pagos na aquisição de insumos, bens e serviços ao longo da cadeia produtiva.
+ 
+## Repartição Automática no Destino
+
+<img width="712" height="405" alt="image" src="https://github.com/user-attachments/assets/9cd416d7-e2e0-4301-b101-c44b5f0f6963" />
+
+Base Legal Mencionada: Art. 11 da LC 214
+
+O imposto é calculado e para onde vai a arrecadação nas operações de consumo. O sistema garante que a parte federal seja igual em todo o país e que a parte subnacional (estados e municípios) pertença ao local de consumo.
+
+- Cálculo do IBS: A taxa de IBS aplicada numa compra corresponde à soma exata da alíquota do Estado com a alíquota do Município onde a operação se destina.
+- Unicidade da CBS: A CBS é cobrada de forma idêntica em todo o território nacional, utilizando a mesma alíquota em qualquer Estado ou Município.
+
+- Comércio Exterior (Exportação vs. Importação):
+  - Exportações: Estão totalmente isentas de IBS e CBS para não tributar produtos vendidos para o exterior.
+  - Importações: Pagam IBS e CBS exatamente da mesma forma que os produtos fabricados e vendidos no mercado interno.
+- Regra de Destino da Arrecadação: O local onde ocorre a operação é o fator determinante para direcionar o valor arrecadado do IBS para os cofres do respetivo ente federativo, conforme regulado pelo Artigo 11 da LC 214.
+
+Observação: O IVA Dual total não é fixo para o país todo; ele varia conforme o local de consumo. O que é fixo nacionalmente é a CBS. O IBS é que muda se um Estado ou Município decidir aumentar ou diminuir a sua alíquota própria por lei.
+O IBS de um local é a soma de duas partes: Alíquota do Estado + Alíquota do Município.
+(CBS) é nacional e fixo, enquanto o imposto local (IBS) varia de acordo com o Estado e Município
+
+
+## Distribuição da Arrecadação pelo Comitê Gestor
+
+Conceito-Chave: Regras de Retenção e Distribuição do Produto da Arrecadação pelo Comitê Gestor do IBS
+
+Nesse tópico detalhamos as competências do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) para fins de distribuição da arrecadação do tributo entre os entes federativos. O mecanismo define primeiro quais valores devem ser retidos para garantir compromissos do sistema e, em seguida, como o montante líquido é distribuído.
+
+- Bloco 1: Retenção de Valores (Caixa de Reserva)
+    - Texto Fiel: "Reterá montante equivalente ao saldo acumulado de créditos do imposto não compensados pelos contribuintes e não ressarcidos ao final de cada período de apuração, bem como dos valores decorrentes para o cashback;"
+    - Significado: Antes de repassar os recursos para Estados e Municípios, o Comitê Gestor retém o montante necessário para honrar a devolução de créditos acumulados aos contribuintes e financiar o mecanismo de devolução de imposto às famílias de baixa renda (cashback).
+ 
+- Bloco 2: Distribuição aos Entes Federativos
+    - Texto Fiel: "Distribuirá o produto da arrecadação do imposto, deduzida a retenção do inciso I ao ente federativo de destino das operações que não tenham gerado creditamento."
+    - Significado: Após abater as retenções obrigatórias (créditos acumulados e cashback), o valor líquido arrecadado é transferido para o Estado e Município de destino onde ocorreu o consumo final.
+ 
+**Ponto Central**: Como o Comitê Gestor administra o fluxo financeiro da arrecadação antes do repasse final.Etapa 1 (Retenção): O Comitê Gestor separa primeiro os valores destinados a garantir os créditos não compensados dos contribuintes e os recursos exigidos pelo cashback.   Etapa 2 (Repasse): O saldo restante é distribuído diretamente ao ente federativo do local de destino das operações de consumo.   
+
+**Exemplo Prático: Explicativo — O Fluxo de Caixa no Comitê Gestor (IBS)**
+
+Cenario Hipotético:
+
+Num determinado mês de apuração, o Comitê Gestor do IBS arrecadou um total de R$ 100 milhões em tributos sobre operações de consumo no destino.
+
+Passo 1: A Retenção Obrigatória (Caixa de Reserva)
+Antes de enviar qualquer dinheiro para os cofres dos Estados e Municípios, o Comitê Gestor faz a dedução das obrigações do sistema:
+
+1. Ressarcimento de Créditos Acumulados aos Contribuintes:Algumas empresas compradoras acumularam saldos de créditos e solicitaram o ressarcimento em dinheiro.
+   - Valor retido: R$ 15 milhões.
+2. Fundo do Cashback:
+   - Valor reservado para devolução direta de impostos às famílias de baixa renda cadastradas no programa.
+   - Valor retido: R$ 5 milhões.
+
+Total de Retenções do Bloco 1: R$ 15M + R$ 5M = R$ 20 milhões
+
+Passo 2: A Distribuição Líquida ao Destino
+
+Após separar o montante das retenções, o Comitê Gestor apura o saldo líquido e faz o repasse automático aos entes de destino onde ocorreu o consumo final:
+
+  {Valor Bruto Arrecadado (R\$ 100M)} - {Retenções (R\$ 20M)} = {Saldo Líquido (R\$ 80M)}
+  
+  Resultado: Os R$ 80 milhões restantes são distribuídos e depositados diretamente nas contas do Estado e do Município onde o bem ou serviço foi adquirido pelo consumidor final.
+
+A lógica da regra: O Comitê Gestor atua como um "filtro centralizador" para garantir que a devolução de créditos das empresas e o cashback dos cidadãos sejam pagos em dia, sem depender da boa vontade financeira de cada município ou estado individualmente
+
+
+## Condicionamento do Crédito e Pagamento do Imposto
+
+Base Legal: Emenda Constitucional nº 132 | Artigo 156-A da Constituição Federal
+
+Conceito-Chave: Regras de Compensação / Crédito Financeiro Condicionado ao Efetivo Recolhimento (Split Payment)
+
 
 
 ## Fontes de Origem Procedente (Oficiais e Sem Risco de Inexactidão)
